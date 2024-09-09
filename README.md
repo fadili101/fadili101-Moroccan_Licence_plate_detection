@@ -28,3 +28,4 @@ $ docker build -t <tag_name> -f docker/Dockerfile .
 $ docker run -p 8501:8501 -it <tag_name>
 ```
 >>>>>>> 593eb38 (Initial commit)
+"# fadili101-Moroccan_Licence_plate_detection" 
